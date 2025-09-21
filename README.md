@@ -13,7 +13,7 @@ Here I post some of the projects I wrote for practice and sampling for future wo
 ## 📬 Contact Us
 - Email: AMIR.FAMIYAN.1@GMAIL.COM
 - Telegram: https://t.me/@TheOntik
-- Instagram: amirfamiyan@
+- Instagram: @amirfamiyan
 
 # 👋 سلام! من امیر فامیان هستم
 
