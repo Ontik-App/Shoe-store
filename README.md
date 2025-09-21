@@ -1,16 +1,33 @@
-# test1
+# 👋 Hello! I'm Amir Famiyan
 
-A new Flutter project.
+A programmer and developer interested in **Dart** and **Flutter**
 
-## Getting Started
+Here I post some of the projects I wrote for practice and sampling for future work 🚀
 
-This project is a starting point for a Flutter application.
+## 📱 Projects
 
-A few resources to get you started if this is your first Flutter project:
+- A shoe store with a simple but stylish UI
+- Using **SetState** and **Provider** to manage state
+- And...
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📬 Contact Us
+- Email: AMIR.FAMIYAN.1@GMAIL.COM
+- Telegram: https://t.me/@TheOntik
+- Instagram: amirfamiyan@
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 👋 سلام! من امیر فامیان هستم
+
+برنامه‌نویس و توسعه دهنده علاقه‌مند به **Dart** و **Flutter**  
+اینجا چندتا از پروژه‌هایی که نوشتم رو می‌ذارم تا هم تمرین باشه هم نمونه‌کار برای کار آینده 🚀
+
+
+## 📱 پروژه‌ها
+
+- یک فروشگاه کفش با ui ساده ولی در عین حال شیک 
+- استفاده از **Provider** برای مدیریت state
+- و...
+
+## 📬 راه ارتباطی
+- ایمیل: AMIR.FAMIYAN.1@GMAIL.COM
+- تلگرام : https://t.me/@TheOntik
+- اینستاگرام : amirfamiyan@
